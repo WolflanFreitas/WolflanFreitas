@@ -22,6 +22,6 @@
   <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
 </div>
 
-### Contato
+#### Contato
 
 <a href = "mailto:wolflanf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
