@@ -1,7 +1,7 @@
 ## Wolflan Freitas
 - 🎒 Bacharel em Sistema de Informação (IFMA)
 - 💻 Especialista em Engenharia de Sistemas
-- 📖 Cursando Desenvolvimento Full Stack. Na XP Educação (Antiga IGTI) - Node Js/Back-End, React Js/Front-End)
+- 📖 Cursando MBA Desenvolvedor Full Stack. Na XP Educação (Antiga IGTI) - Node Js/Back-End, React Js/Front-End)
 - 🎯 Full Stack Developer Laravel/Livewire
 
 <div align="center">
@@ -28,6 +28,8 @@
   <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Wolf-Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 </div>
 
 ### Projetos Desenvolvidos
