@@ -10,10 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolflanfreitas&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
-<div align="center">
-  ![Snake animation](https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+![Snake animation](https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg)
+
 ### Tecnologias
 
 <div style="display: inline_block"><br>
