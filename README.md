@@ -37,6 +37,9 @@
       <a href='http://sistemas.sescma.com.br/sao/public/painel/'>Acompanhamento de Obras</a>
     </li>
     <li>
+      <a href='#'>Instalação e Configuração de Servidor Ubuntu Server (Hospedagem das aplicações)</a>
+    </li>
+    <li>
       <a href='https://scf.sescma.com.br/'>Cadastro de Fornecedores</a>
     </li>
     <li>
