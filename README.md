@@ -9,9 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolflanfreitas&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolflanfreitas&layout=compact&langs_count=7&theme=swift"/>
 </div>
-
-![Snake animation](https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg)
-
+ 
 ### Tecnologias
 
 <div style="display: inline_block"><br>
@@ -70,3 +68,7 @@
   
 <a href = "mailto:wolflanf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wolflan-camilo-penha-de-freitas-04670824a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+### Contribuições
+  
+![Snake animation](https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg)
