@@ -31,9 +31,6 @@
   
   <ul>
     <li>
-      <a href='http://sistemas.sescma.com.br/sig'>Gestão de Informações Gerenciais</a>
-    </li>
-    <li>
       <a href='http://sistemas.sescma.com.br/sao/public/painel/'>Acompanhamento de Obras</a>
     </li>
     <li>
@@ -53,6 +50,9 @@
 ### Projetos Modificados
   
   <ul>
+    <li>
+      <a href='http://sistemas.sescma.com.br/sig'>Gestão de Informações Gerenciais</a>
+    </li>
     <li>
       <a href='https://sescbook.sescma.com.br/'>Intranet Sesc-MA (HumHub)</a>
     </li>
