@@ -34,6 +34,7 @@
 </div>
 
 ### Projetos Desenvolvidos
+  
   <ul>
     <li>
       <a href='http://sistemas.sescma.com.br/sig'>Gestão de Informações Gerenciais</a>
@@ -53,6 +54,7 @@
   </ul>
   
 ### Projetos Modificados
+  
   <ul>
     <li>
       <a href='https://sescbook.sescma.com.br/'>Intranet Sesc-MA (HumHub)</a>
@@ -63,6 +65,6 @@
   </ul>
   
 #### Contato
-
-<a href = "mailto:wolflanf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+<a href = "mailto:wolflanf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wolflan-camilo-penha-de-freitas-04670824a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
