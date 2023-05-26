@@ -46,7 +46,7 @@
       <a href='https://vendas.sescma.com.br/'>Venda de Refeições</a>
     </li>
     <li>
-      <a href='https://restaurante.sescma.com.br/'>Contrele de entrada de usuários</a>
+      <a href='https://restaurante.sescma.com.br/'>Controle de entrada de usuários</a>
     </li>
     <li>
       <a href='https://consultafacil.wolflan.dev/'>Consulta Fácil</a>
