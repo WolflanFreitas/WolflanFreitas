@@ -51,6 +51,9 @@
     <li>
       <a href='https://consultafacil.wolflan.dev/'>Consulta Fácil</a>
     </li>
+    <li>
+      <a href='https://pdv.sescma.com.br/'>Ponto de venda (Aplicação completa com frente de caixa e gerenciamento de usuários, produtos e vendas.)</a>
+    </li>
   </ul>
   
 ### Projetos Modificados
