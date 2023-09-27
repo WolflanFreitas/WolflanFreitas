@@ -1,7 +1,7 @@
 ## Wolflan Freitas
 - 🎒 Bacharel em Sistema de Informação (IFMA)
 - 💻 Especialista em Engenharia de Sistemas
-- 📖 Cursando MBA Desenvolvedor Full Stack. Na XP Educação (Antiga IGTI) - Node Js/Back-End, React Js/Front-End)
+- 📖 MBA Desenvolvedor Full Stack. Na XP Educação (Antiga IGTI) - Node Js/Back-End, React Js/Front-End)
 - 🎯 Full Stack Developer Laravel/Livewire
  
 ### Tecnologias
