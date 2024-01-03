@@ -57,6 +57,9 @@
     <li>
       <a href='https://restaurante.sescma.com.br/'>Controle de entrada e consumo de refeições de diversas instituições.</a>
     </li>
+    <li>
+      <a href='https://sescma.com.br/'>Assistente Virtual (Chatbot), tira dúvida</a>
+    </li>
   </ul>
   
 ### Projetos Modificados
