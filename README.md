@@ -54,6 +54,9 @@
     <li>
       <a href='https://pdv.sescma.com.br/'>Ponto de venda (Aplicação completa com frente de caixa e gerenciamento de usuários, produtos e vendas.)</a>
     </li>
+    <li>
+      <a href='https://restaurante.sescma.com.br/'>Controle de entrada e consumo de refeições de diversas instituições.</a>
+    </li>
   </ul>
   
 ### Projetos Modificados
