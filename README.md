@@ -25,6 +25,7 @@
   <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ### Projetos Desenvolvidos
@@ -60,6 +61,9 @@
     <li>
       <a href='https://sescma.com.br/'>Assistente Virtual (Chatbot), tira dúvida</a>
     </li>
+    <li>
+       <a href='https://sae.sescma.com.br/'>Sistema de Assistência à Enfermagem</a>
+     </li>
   </ul>
   
 ### Projetos Modificados
