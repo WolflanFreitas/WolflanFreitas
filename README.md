@@ -92,9 +92,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolflanfreitas&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolflanfreitas&layout=compact&langs_count=7&theme=swift"/>
 </div>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
