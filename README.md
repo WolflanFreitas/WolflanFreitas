@@ -93,4 +93,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolflanfreitas&layout=compact&langs_count=7&theme=swift"/>
 </div>
   
-![Snake animation](https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/WolflanFreitas/WolflanFreitas/blob/output/github-contribution-grid-snake.svg" />
+</picture>
