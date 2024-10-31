@@ -1,7 +1,8 @@
 ## Wolflan Freitas
 - 🎒 Bacharel em Sistema de Informação (IFMA)
-- 💻 Especialista em Engenharia de Sistemas
+- 📖 Especialista em Engenharia de Sistemas (ESAB)
 - 📖 MBA Desenvolvedor Full Stack. Na XP Educação (Antiga IGTI) - Node Js/Back-End, React Js/Front-End)
+- 📖 Especialista em Informática na Educação (IFMA)
 - 🎯 Full Stack Developer Laravel/Livewire
  
 ### Tecnologias
@@ -64,6 +65,12 @@
     <li>
        <a href='https://sae.sescma.com.br/'>Sistema de Assistência à Enfermagem</a>
      </li>
+     <li>
+       <a href='https://congresso.sescma.com.br/'>Cadastro e Registro de Presença em Congresso.</a>
+     </li>
+     <li>
+       Implantação Servidor de domínio e VPN (Windows Server)
+     </li>
   </ul>
   
 ### Projetos Modificados
@@ -78,6 +85,9 @@
     <li>
       <a href='https://sga.sescma.com.br/login'>Sistema de Gestão do Atendimento (Novo SGA)</a>
     </li>
+    <li>
+       <a href='https://cloud.sescma.com.br/login'>Cloud Privada Para Amazenamento de Arquivos</a>
+     </li>
   </ul>
   
 ### Contato
