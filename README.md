@@ -74,7 +74,10 @@
        Implantação Servidor de domínio e VPN (Windows Server)
      </li>
      <li>
-       <a href='https://apps.sescma.com.br/sorteador'>Sorteador para Eventos.</a>
+       <a href='https://apps.sescma.com.br/sorteador'>Sorteador para Eventos (Roleta).</a>
+     </li>
+     <li>
+       <a href='https://apps.sescma.com.br/sorteio'>Sorteador para Eventos (Números).</a>
      </li>
   </ul>
   
