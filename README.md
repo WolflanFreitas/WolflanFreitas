@@ -29,7 +29,6 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
-  <img align="center" alt="Livewire" height="30" width="40" src="https://svgmix.com/files/4N9JaW/laravel-livewire.svg">
 </div>
 
 ### Projetos Desenvolvidos
@@ -73,6 +72,9 @@
      </li>
      <li>
        Implantação Servidor de domínio e VPN (Windows Server)
+     </li>
+     <li>
+       <a href='https://apps.sescma.com.br/sorteador'>Sorteador para Eventos.</a>
      </li>
   </ul>
   
